@@ -74,12 +74,3 @@ jupyter notebook churn_on_taxi.ipynb
 3. **Продуктовые улучшения:**
    - Данные для развития продукта
    - Метрики для оценки эффективности изменений
-
-## 👤 Автор
-[Ваше имя] - Data Analyst
-- 📧 [Email]
-- 💼 [LinkedIn]
-- 🌐 [Portfolio/GitHub]
-
-## 📝 Лицензия
-MIT License
